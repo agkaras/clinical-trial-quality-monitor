@@ -39,6 +39,9 @@ This project draws on my research in vascular mitochondrial metabolism, applying
 - Sponsor class breakdown
 
 ---
+## Preview
+![CV Trial Quality Monitor](screenshot.jpg)
+
 
 ## Technical Stack
 
